@@ -1,6 +1,3 @@
-# This Code is Heavily Inspired By The YouTuber: Cheesy AI
-# Code Changed, Optimized And Commented By: NeuralNine (Florian Dedov)
-
 import math
 import random
 import sys
@@ -21,7 +18,7 @@ CAR_SIZE_Y = 60
 
 BORDER_COLOR = (255, 255, 255, 255) # Color To Crash on Hit
 
-current_generation = 0 # Generation counter
+current_generation = 0    # Generation counter
 
 class Car:
 
